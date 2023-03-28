@@ -82,5 +82,5 @@ public class CalciteExperimentApplication {
 // === query examples ===
 // 1. select * from "employees"
 // 2. select * from "departments"
-// 3.
+// 3. select e.FIRST_NAME, e.LAST_NAME, d.NAME, e.DEPT_NO from "employees" e, "departments" d where e.DEPT_NO = d.DEPT_NO AND e.DEPT_NO = 30
 
