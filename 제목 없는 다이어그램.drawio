@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T08:27:35.180Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fijvIlP6PPnqx7B8wRKL" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T08:32:35.491Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="UDITYnhWnfFFn-GhA66G" version="21.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2385" dy="2787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2099" dy="2032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--0" target="7LmNsAwvgXj2gDmSu7ZD-6">
+        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--0" target="7LmNsAwvgXj2gDmSu7ZD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-14" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--0" target="7LmNsAwvgXj2gDmSu7ZD-8">
+        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-14" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--0" target="7LmNsAwvgXj2gDmSu7ZD-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--0" value="RedisToEnumerableConverter" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="60" y="-300" width="430" height="140" as="geometry">
+          <mxGeometry x="50" y="-300" width="430" height="140" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -21,40 +21,112 @@
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--4" value="&lt;br&gt;&lt;br&gt;" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="52" width="430" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="zkfFHV4jXpPFQw0GAbJ--5" value="copy(RelTraitSet, List&lt;RelNode&gt;)                                                         RelNode" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--5" value="copy(RelTraitSet, List&lt;RelNode&gt;)                                                         RelNode" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="60" width="430" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-1" value="computeSelfCost(RelOptPlanner, RelMetaDataQuery)                    RelOptCost" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
+        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-1" value="computeSelfCost(RelOptPlanner, RelMetaDataQuery)                    RelOptCost" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="86" width="430" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-2" value="implement(EnumerableRelImplementor, Prefer)              EnumeralbeRel.Result" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
+        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-2" value="implement(EnumerableRelImplementor, Prefer)              EnumeralbeRel.Result" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="112" width="430" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-6" value="&lt;b&gt;ConverterImpl&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-6" value="&lt;b&gt;ConverterImpl&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-8" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;EnumerableRel&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-8" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;EnumerableRel&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-15" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7LmNsAwvgXj2gDmSu7ZD-17" target="7LmNsAwvgXj2gDmSu7ZD-25">
+        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-15" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7LmNsAwvgXj2gDmSu7ZD-17" target="7LmNsAwvgXj2gDmSu7ZD-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-17" value="RedisToEnumerableConverterRule" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="760" y="-260" width="320" height="90" as="geometry">
+        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-17" value="RedisToEnumerableConverterRule" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="565" y="-300" width="320" height="90" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-18" value="RedisToEnumerableConverterRule(Config)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7LmNsAwvgXj2gDmSu7ZD-17">
+        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-18" value="RedisToEnumerableConverterRule(Config)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="7LmNsAwvgXj2gDmSu7ZD-17" vertex="1">
           <mxGeometry y="26" width="320" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-19" value="&lt;br&gt;&lt;br&gt;" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="7LmNsAwvgXj2gDmSu7ZD-17">
+        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-19" value="&lt;br&gt;&lt;br&gt;" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="7LmNsAwvgXj2gDmSu7ZD-17" vertex="1">
           <mxGeometry y="52" width="320" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-20" value="convert(RelNode)                                                  RelNode" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7LmNsAwvgXj2gDmSu7ZD-17">
+        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-20" value="convert(RelNode)                                                  RelNode" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="7LmNsAwvgXj2gDmSu7ZD-17" vertex="1">
           <mxGeometry y="60" width="320" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-25" value="&lt;b&gt;ConverterRule&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" y="-460" width="120" height="60" as="geometry" />
+        <mxCell id="7LmNsAwvgXj2gDmSu7ZD-25" value="&lt;b&gt;ConverterRule&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="665" y="-500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-0" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;JedisPoolRemovalListener&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- JedisPoolRemovalListener(): &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ onRemoval(RemovalNotification&amp;lt;String, JedisPool&amp;gt;): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-195.5" y="-40" width="398" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;RedisConfig&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ RedisConfig(String, int, int, String): &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- password: String&lt;br/&gt;- port: int&lt;br/&gt;- host: String&lt;br/&gt;- database: int&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; password: String&lt;br/&gt; host: String&lt;br/&gt; database: int&lt;br/&gt; port: int&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="113" width="261" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;&lt;/i&gt;&lt;br/&gt;&lt;b&gt;RedisDataFormat&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- RedisDataFormat(String): &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- typeName: String&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ values(): RedisDataFormat[]&lt;br/&gt;+ fromTypeName(String?): RedisDataFormat&lt;br/&gt;+ valueOf(String): RedisDataFormat&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; typeName: String&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-198" y="360" width="302" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;RedisDataProcess&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ RedisDataProcess(Jedis, RedisTableFieldInfo): &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;~ parse(Iterable&amp;lt;String&amp;gt;): List&amp;lt;Object[]&amp;gt;&lt;br/&gt;+ parse(List&amp;lt;String&amp;gt;): List&amp;lt;Object[]&amp;gt;&lt;br/&gt;+ read(): List&amp;lt;Object[]&amp;gt;&lt;br/&gt;- parseJson(String): Object[]&lt;br/&gt;- parseCsv(String): Object[]&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-198" y="645" width="328" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;&lt;/i&gt;&lt;br/&gt;&lt;b&gt;RedisDataType&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- RedisDataType(String): &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- typeName: String&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ values(): RedisDataType[]&lt;br/&gt;+ valueOf(String): RedisDataType&lt;br/&gt;+ fromTypeName(String?): RedisDataType&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; typeName: String&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="149" y="431" width="286" height="239" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;RedisEnumerator&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;~ RedisEnumerator(RedisConfig, RedisSchema, String): &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;~ deduceRowType(RedisTableFieldInfo): Map&amp;lt;String, Object&amp;gt;&lt;br/&gt;+ moveNext(): boolean&lt;br/&gt;+ close(): void&lt;br/&gt;+ current(): Object[]&lt;br/&gt;+ reset(): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="431" width="405" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fG1qcQ4IM_m4geE2BArl-6" target="fG1qcQ4IM_m4geE2BArl-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fG1qcQ4IM_m4geE2BArl-14">
+          <mxGeometry x="0.0889" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;RedisJedisManager&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ RedisJedisManager(String, int, int, String): &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ close(): void&lt;br/&gt;- createConsumer(): JedisPool&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; jedisPool: JedisPool&lt;br/&gt; resource: Jedis&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-153" y="114" width="313" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;RedisSchema&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;~ RedisSchema(String, int, int, String, List&amp;lt;Map&amp;lt;String, Object&amp;gt;&amp;gt;): &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- tableMap: Map&amp;lt;String, Table&amp;gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- table(String): Table&lt;br/&gt;+ getTableFieldInfo(String): RedisTableFieldInfo&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; tableMap: Map&amp;lt;String, Table&amp;gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="708" width="415" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;RedisSchemaFactory&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ RedisSchemaFactory(): &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ create(SchemaPlus, String, Map&amp;lt;String, Object&amp;gt;): Schema&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="435" y="938" width="402" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;RedisTable&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ RedisTable(RedisSchema, String, RelProtoDataType, Map&amp;lt;String, Object&amp;gt;?, String, RedisConfig): &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ scan(DataContext): Enumerable&amp;lt;Object?[]&amp;gt;&lt;br/&gt;~ create(RedisSchema, String, RedisConfig, RelProtoDataType): Table&lt;br/&gt;+ getRowType(RelDataTypeFactory): RelDataType&lt;br/&gt;~ create(RedisSchema, String, Map?, RelProtoDataType): Table&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-198" y="855" width="454" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;RedisTableFactory&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- RedisTableFactory(): &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ create(SchemaPlus, String, Map, RelDataType?): Table&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-198" y="1043" width="374" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;RedisTableFieldInfo&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ RedisTableFieldInfo(): &lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- dataFormat: String&lt;br/&gt;- fields: List&amp;lt;LinkedHashMap&amp;lt;String, Object&amp;gt;&amp;gt;&lt;br/&gt;- tableName: String&lt;br/&gt;- keyDelimiter: String&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; keyDelimiter: String&lt;br/&gt; fields: List&amp;lt;LinkedHashMap&amp;lt;String, Object&amp;gt;&amp;gt;&lt;br/&gt; tableName: String&lt;br/&gt; dataFormat: String&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="243" y="110" width="322" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-16" value="RedisRules" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1380" y="30" width="440" height="190" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-17" value="RedisRules()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fG1qcQ4IM_m4geE2BArl-16">
+          <mxGeometry y="26" width="440" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-18" value="&lt;br&gt;&lt;br&gt;" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="fG1qcQ4IM_m4geE2BArl-16">
+          <mxGeometry y="52" width="440" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-23" value="&lt;&lt; Inner Class &gt;&gt;&#xa;RedisFilterRule" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="fG1qcQ4IM_m4geE2BArl-16">
+          <mxGeometry y="60" width="440" height="130" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-24" value="RedisFilterRule()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fG1qcQ4IM_m4geE2BArl-23">
+          <mxGeometry y="40" width="440" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-25" value="&lt;br&gt;&lt;br&gt;" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="fG1qcQ4IM_m4geE2BArl-23">
+          <mxGeometry y="66" width="440" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-26" value="convert(LogicalFilter, RedisTableScan)                                RelNode(RedisFilter)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fG1qcQ4IM_m4geE2BArl-23">
+          <mxGeometry y="74" width="440" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1qcQ4IM_m4geE2BArl-27" value="onMatch                                                                " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fG1qcQ4IM_m4geE2BArl-23">
+          <mxGeometry y="100" width="440" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
